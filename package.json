@@ -35,16 +35,16 @@
   },
   "devDependencies": {
     "chai": "^4.5.0",
-    "cli-testlab": "^1.10.0",
+    "cli-testlab": "^4.0.0",
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^6.15.0",
     "eslint-plugin-prettier": "^3.4.1",
     "getopts": "2.3.0",
-    "mocha": "^6.2.3",
+    "mocha": "^11.2.2",
     "moment": "^2.30.1",
     "prettier": "^1.19.1",
     "request": "2.88.2",
-    "vows": "^0.7.0"
+    "vows": "^0.8.3"
   },
   "bin": {
     "forever": "./bin/forever"
